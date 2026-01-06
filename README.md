@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 
-###
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=piannjayy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piannjayy&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ### 🔧 Tech Stack
@@ -71,7 +71,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piannjayy/piannjayy/output/pacman-contribution-graph-dark.svg">
