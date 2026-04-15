@@ -25,12 +25,12 @@
 Haloo selamat pagi, siang, sore, malamm saya **Alvian Aditya**. saya mau jadi **Web Dev handal** sambil *slowliving with my bini*. Saya pelajar yang kaget tiba-tiba disuruh ngoding, tapi saya suka ngoding bwahahaha.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piannjayy&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piannjayy&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Langs" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=piannjayy&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&cache_seconds=1800" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piannjayy&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&cache_seconds=1800" alt="Top Langs" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piannjayy&theme=dark&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piannjayy&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
 </div>
 
 ---
