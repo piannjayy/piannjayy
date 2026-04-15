@@ -21,7 +21,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/user.svg" width="20" height="20" /> About Me
+### <img src="https://api.iconify.design/lucide:user.svg?color=%2358A6FF" width="20" height="20" /> About Me
 Haloo selamat pagi, siang, sore, malamm saya **Alvian Aditya**. saya mau jadi **Web Dev handal** sambil *slowliving with my bini*. Saya pelajar yang kaget tiba-tiba disuruh ngoding, tapi saya suka ngoding bwahahaha.
 
 <div align="center">
@@ -35,14 +35,14 @@ Haloo selamat pagi, siang, sore, malamm saya **Alvian Aditya**. saya mau jadi **
 
 ---
 
-### <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/code-2.svg" width="20" height="20" /> Tech Stack
+### <img src="https://api.iconify.design/lucide:code-2.svg?color=%2358A6FF" width="20" height="20" /> Tech Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,nextjs,laravel,react,cs,mysql,php,vscode,bootstrap,git,github" />
 </div>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/line-chart.svg" width="20" height="20" /> Activity & Contributions
+### <img src="https://api.iconify.design/lucide:line-chart.svg?color=%2358A6FF" width="20" height="20" /> Activity & Contributions
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=piannjayy&radius=16&theme=react&area=true&order=5&bg_color=0D1117&hide_border=true" width="100%" alt="activity-graph" />
 </div>
@@ -59,10 +59,10 @@ Haloo selamat pagi, siang, sore, malamm saya **Alvian Aditya**. saya mau jadi **
 
 ---
 
-### <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/music.svg" width="20" height="20" /> Currently Playing
+### <img src="https://api.iconify.design/lucide:music.svg?color=%2358A6FF" width="20" height="20" /> Currently Playing
 <div align="center">
   <a href="https://open.spotify.com/user/piyaan">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dxnskqmv7cgeq3pqnx46joripq&unique={true|1|on|yes}" alt="Spotify recently played" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dxnskqmv7cgeq3pqnx46joripq&unique=true" alt="Spotify recently played" />
   </a>
 </div>
 
